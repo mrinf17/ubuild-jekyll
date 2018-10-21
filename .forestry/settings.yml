@@ -16,10 +16,6 @@ sections:
   exclude: "*README.md"
   new_doc_ext: md
 - type: jekyll-posts
-  label: Listings
-  create: all
-  match: "**/*"
-- type: jekyll-posts
   label: Opinion
   create: all
 upload_dir: uploads
