@@ -11,8 +11,8 @@ page_sections:
     link_text: Home
   - link: "#services"
     link_text: Services
-  - link: "#"
-    link_text: Pricing
+  - link: "#represented"
+    link_text: Represented
   - link: "#"
     link_text: Team
   cta:
