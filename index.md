@@ -79,6 +79,11 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 2-column-text
+  block: two-column-1
+  col_1:
+    content: <img src="/uploads/2018/10/21/ACME RE Logo.png">
+    headline: The Company I Keep.
 
 ---
 foo bar
