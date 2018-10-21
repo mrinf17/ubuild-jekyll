@@ -15,8 +15,7 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
-- type: directory
-  path: ''
+- type: jekyll-posts
   label: Listings
   create: all
   match: "**/*"
