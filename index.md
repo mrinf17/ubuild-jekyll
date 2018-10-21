@@ -9,12 +9,12 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#services"
-    link_text: Services
   - link: "#represented"
     link_text: Represented
-  - link: "#"
-    link_text: Team
+  - link: "#services"
+    link_text: Services
+  - link: "#background"
+    link_text: Background
   cta:
     url: mailto:hello@mfavela.com
     button_text: Contact
