@@ -86,6 +86,8 @@ page_sections:
     headline: ''
   col_2:
     headline: The Company I Keep
+    content: ACME Real Estate is a play on branding, initially created to provide
+      visibility to development client identities.
 
 ---
 foo bar
