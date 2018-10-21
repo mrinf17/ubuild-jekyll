@@ -15,9 +15,6 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: ''
   label: Listings
@@ -26,7 +23,6 @@ sections:
 - type: jekyll-posts
   label: Opinion
   create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
