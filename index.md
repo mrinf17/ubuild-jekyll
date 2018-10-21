@@ -13,8 +13,8 @@ page_sections:
     link_text: Represented
   - link: "#services"
     link_text: Services
-  - link: "#background"
-    link_text: Background
+  - link: "#dossier"
+    link_text: Dossier
   - link: "#opinion"
     link_text: Opinion
   cta:
