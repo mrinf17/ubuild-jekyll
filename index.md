@@ -15,6 +15,8 @@ page_sections:
     link_text: Services
   - link: "#dossier"
     link_text: Dossier
+  - link: "#company"
+    link_text: Company
   - link: "#opinion"
     link_text: Opinion
   cta:
