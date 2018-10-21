@@ -84,6 +84,8 @@ page_sections:
   col_1:
     content: <img src="/uploads/2018/10/21/ACME RE Logo.png">
     headline: ''
+  col_2:
+    headline: The Company I Keep
 
 ---
 foo bar
