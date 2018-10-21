@@ -83,7 +83,7 @@ page_sections:
   block: two-column-1
   col_1:
     content: <img src="/uploads/2018/10/21/ACME RE Logo.png">
-    headline: The Company I Keep.
+    headline: ''
 
 ---
 foo bar
