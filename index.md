@@ -15,6 +15,8 @@ page_sections:
     link_text: Services
   - link: "#background"
     link_text: Background
+  - link: "#opinion"
+    link_text: Opinion
   cta:
     url: mailto:hello@mfavela.com
     button_text: Contact
