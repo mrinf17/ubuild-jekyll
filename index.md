@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
-    link_text: Features
+  - link: "#services"
+    link_text: Services
   - link: "#"
     link_text: Pricing
   - link: "#"
